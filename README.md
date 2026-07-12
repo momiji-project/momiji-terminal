@@ -18,7 +18,9 @@
 
 ## ⬇️ ダウンロード（最新版）
 
-右側の **[Releases](../../releases/latest)** から、最新の `MOMIJI_x.x.x_aarch64.dmg` をダウンロードしてください。
+**▶ [MOMIJI をダウンロード（最新版・Apple Silicon）](https://github.com/momiji-project/momiji-terminal/releases/latest/download/MOMIJI-macOS-AppleSilicon.dmg)**
+
+（上のリンクは常に最新版を指します。バージョンを選びたい場合は [Releases 一覧](../../releases/latest) から。）
 
 ## 動作環境
 
